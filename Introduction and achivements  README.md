@@ -69,7 +69,7 @@ Built to assist farmers and promote sustainable agriculture through modern deep 
 ## 📫 Let's Connect  
 
 - 🌐 [GitHub Profile](https://github.com/sarthaktandulje)  
-- 💌 Email: *[your.email@gmail.com]*  
+- 💌 Email: *[sarthak.tandulje.portfolio@gmail.com]*  
 - 📘 Always open to collaboration & learning!  
 
 ---
